@@ -113,25 +113,40 @@
 
 # PART 7: OUR PRICING STRATEGY
 
-## Proposed MVP Pricing
+## Proposed MVP Pricing (25% below market = fair value)
 
 | Tier | Price | Target | Features |
 |------|-------|--------|----------|
-| **Starter** | $29/user/mo | Small (1-3 people) | Core CRM + Client Mgmt |
-| **Professional** | $59/user/mo | Mid-size (5-15) | Core + Projects + Time |
-| **Enterprise** | $99/user/mo | Large (15+) | All + Custom integrations |
+| **Starter** | $49/user/mo | Small (1-3 people) | Core CRM + Client Mgmt |
+| **Professional** | $79/user/mo | Mid-size (5-15) | Core + Projects + Time |
+| **Enterprise** | $149/user/mo | Large (15+) | All + Custom integrations |
 
 ### Comparison to Market
 
-| Our Tier | vs Clio | vs Karbon | vs GHL | Value |
-|----------|---------|-----------|--------|-------|
-| $29/mo | $39/mo | $29/mo | $47/mo | Cheapest |
-| $59/mo | $39/mo | $75/mo | $97/mo | Better features |
-| $99/mo | $129/mo | $89/mo | $297/mo | Way cheaper than enterprise |
+| Our Tier | vs Clio ($39-129) | vs Karbon ($29-75) | vs GHL ($47-297) | Value |
+|----------|-------------------|-------------------|------------------|-------|
+| $49/mo | Competitive | More expensive | Same | Better product |
+| $79/mo | Mid-range | Similar | Cheaper | Way better features |
+| $149/mo | Premium | Premium | Cheaper | Full solution |
 
 ---
 
-# PART 8: VALUE PROPOSITION SUMMARY
+### Why $49-149 is the RIGHT Price
+
+| Competitor | Avg Price | 25% Below | Why We Earn It |
+|------------|-----------|-----------|----------------|
+| Legal | $97/mo | $73/mo | Reports work + data portable + support |
+| Accounting | $53/mo | $40/mo | Real integrations + no bugs |
+| Wealth | $200/mo | $150/mo | Built for advisors, not enterprises |
+| Insurance | $200/mo | $150/mo | Modern vs "cumbersome" |
+
+**Market average + 25% discount = Premium pricing for premium product.**
+
+We leave money on the table by being cheapest. At market rates, we can:
+- ✅ Pay for ChatGPT/AI subscriptions
+- ✅ Hire support staff
+- ✅ Build faster
+- ✅ Actually answer the phone
 
 ## Our Differentiators
 
